@@ -1,3 +1,4 @@
+To restart, after the two commands below: To restart, after the two commands below: docker start cyrill_blog_2 -i
 
 
 sudo docker run --rm --volume="/home/cyrill/blog:/srv/jekyll" -it jekyll/jekyll:3.8 jekyll build
