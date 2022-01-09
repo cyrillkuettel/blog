@@ -8,11 +8,10 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/cyrill_cv_bild.jpg
+picture: assets/images/cyrill_cv_quadratic.jpg
 
-# If you want to include your resume, set to true
-# and specify source (external or local).
-resume: true
+# Maybe I will include my resume later
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
@@ -34,23 +33,23 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+# twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: cyrillkuettel
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: cyrillkuettel [at] gmail.com
 
 authors:
   johndoe:
@@ -83,7 +82,7 @@ pagination:
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+about: false # I might add this later
 blog: true
 
 # do you want to show the "read time" of the posts?
