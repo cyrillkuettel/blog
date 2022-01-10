@@ -4,7 +4,20 @@ title: Home
 ---
 
 {% assign random = site.time | date: "%s%N" | modulo: site.posts.size %}
+{% assign random2 = 0   %}
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
+{% assign min = 1 %}
+{% assign max = 2 %}
+{% assign diff = max | minus: min %}
+{% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
 
-<p>{{ site.posts[random] }}</p>
+<p>{{ randomNumber }}</p>
+<blockquote>{{ site.posts[randomNumber].title }}</blockquote>
 
