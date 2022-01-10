@@ -1,6 +1,6 @@
 # main text of home
 name: Cyrill Küttel
-bio: I write software to solve complex problems 
+bio: I write software to solve complex problems.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -88,8 +88,8 @@ pagination:
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: false # I might add this later
-blog: true
+about: true # I might add this later
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true

@@ -5,6 +5,8 @@ sudo docker run --rm --volume="/home/cyrill/blog:/srv/jekyll" -it jekyll/jekyll:
 
 docker run --name cyrill_blog --volume="/home/cyrill/blog:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:3.8 jekyll serve --watch --drafts
 docker run --name cyrill_blog --volume="/home/demo/blog:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:3.8 jekyll serve --watch --drafts
+
 docker run --name cyrill_blog --volume="/home/cyrill/blog:/srv/jekyll" -p 4000:4000 -it my_blog jekyll serve --watch --drafts
+
 maybe include --force_polling to automatically rebuild local container when file changes?
 
