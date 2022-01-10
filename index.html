@@ -2,3 +2,9 @@
 layout: page
 title: Home
 ---
+
+{% assign random = site.time | date: "%s%N" | modulo: site.posts.size %}
+
+
+<p>{{ site.posts[random] }}</p>
+
