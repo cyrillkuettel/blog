@@ -13,11 +13,3 @@ title: Home
 <br>
 <br>
 
-{% assign min = 1 %}
-{% assign max = 2 %}
-{% assign diff = max | minus: min %}
-{% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
-
-<p>{{ randomNumber }}</p>
-<blockquote>{{ site.posts[randomNumber].title }}</blockquote>
-

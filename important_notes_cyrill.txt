@@ -4,4 +4,10 @@ For technical reasons, that is, because of the nginx configuration, the docker c
 
 For local development, the only commands that work are the ones in docker_commands_that_worked.txt
 
-The docker-compose stuff is intended to run only on the droplet. (Because the config file has to specify the url, essentially) 
+The docker-compose stuff is intended to run only on the droplet. (Because the config file has to specify the url, essentially)
+
+NOTE: I think you have to run the docker jekyll build command before he compose stuff works. I thinks is the case because that command will generate all the static files. 
+PS: Forlocal development you have to exactly visit 'localhost:4000' (without https)
+
+Displaying the quotes at random is more complicated than I first thought. 
+the idea is to use the title and use a quote for each page. 

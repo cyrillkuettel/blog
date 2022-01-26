@@ -26,4 +26,5 @@ layout: page
 <h2>Projects</h2>
 <ul>
 	<li><a href="https://github.com/cyrillkuettel/knights-tour">Solving a combinatorics puzzle ‐ 'knight's tour'</a></li>
+	<li><a href="https://www.coupemondiale.ch/">Website for the World cup: Coupe Mondiale 2022 in Switzerland</a></li>
 </ul>
