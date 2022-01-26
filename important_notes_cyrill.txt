@@ -1,0 +1,7 @@
+# Differnce prod / dev
+
+For technical reasons, that is, because of the nginx configuration, the docker command to go life in the site is different if you're on the server. 
+
+For local development, the only commands that work are the ones in docker_commands_that_worked.txt
+
+The docker-compose stuff is intended to run only on the droplet. (Because the config file has to specify the url, essentially) 

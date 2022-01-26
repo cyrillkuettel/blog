@@ -1,0 +1,16 @@
+# Some notes: 
+These are the development commands.
+
+
+ For production, refer to the commands in the run-production.sh file in the top-level dirtory. 
+It might be neccessary to run the docker command which runs jekyll build (below) before pushing all the files, ssh into the server and running 
+
+
+
+
+docker run --rm --volume="/home/demo/blog/web:/srv/jekyll" -it jekyll/jekyll:3.8 jekyll build
+
+
+docker run --name cyrill_blog --volume="/home/demo/blog/web:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:3.8 jekyll serve --watch --drafts
+# restart: 
+docker start cyrill_blog
