@@ -21,7 +21,8 @@ Everything is possible in theory. From that set, a large subset is also possible
 ## Tools
 I think this analogy fits quite well. 
 Let's imagine you are a carpenter. You want to build a nice piece of furniture, but the problem is, you need a very special tool that costs a thousand dollars.
-Well, if you are in the same situation as a software developer, let's say you require a special tool. You can just _install_ free software. This has essentially the effect of  "standing on the shoulders of giants."  You can leverage your potential a ten-fold, a hundred-fold. A good example of this is Git. I cannot imagine what I would do without this marvelous piece of software.
+Software is not like this (most of the time). Software is not limited by physics, like wood is. It is limited by imagination, by design, by organization.
+If you are in a similar situation as the carpenter, as a software engineer, let's say the work you do requires a very specialized tool. You can just _install_ free software. This has essentially the effect of  "standing on the shoulders of giants."  You can leverage your potential a ten-fold, a hundred-fold. A good example of this is Git. I cannot imagine what I would do without this marvelous piece of software.
 If a tool does not exist, which is highly unlikely, you can literally just _write it_. Just code a tool into existence. That's how a lot of great software has been created. Build simple tools, on which you can then construct more complex tools. If something doesn't exist, you can invent it.
 ## Inventions
 Talking about inventing tools, this reminds of a point Dough Engelbart (inventor of the computer mouse) has made.
