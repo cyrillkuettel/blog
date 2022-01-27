@@ -9,7 +9,7 @@ tag:
 - components
 - extra
 projects: true
-category: projects
+category: blog
 author: jamesfoster
 description: Markdown summary with different options
 ---

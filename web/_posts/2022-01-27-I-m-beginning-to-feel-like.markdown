@@ -1,7 +1,7 @@
 ---
 title: "State of Mind"
 layout: post
-date: 2022-01-27 03:33"
+date: 2022-01-01 03:33
 tag: jekyll
 headerImage: false
 projects: true
@@ -23,13 +23,9 @@ What I've described here is my vision. I like building things. I always liked "D
 
 # Design Patterns
 
-**Image** on the left and **Text** on the right:
-
-{% highlight html %}
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="{{ site.url }}/{{ site.assets.images.design_patterns }}" alt="Alt Text">
-        <figcaption class="caption">Design Patterns</figcaption>
+        <img class="image" src="/assets/images/design_patterns.webp" alt="">
     </div>
 
     <div class="toright">
@@ -39,7 +35,7 @@ For this reason (and because everybody talks about it) I decided to read Gang of
 I'm on page 10 and I can already sense, that this is not going to be a light read. However, I know that I will learn a lot from this book.  Not only because the examples are in C++, also because the book goes very in-depth (which is a good thing!).</p>
     </div>
 </div>
-{% endhighlight %}
+
 
  
 
