@@ -8,7 +8,8 @@ tag:
 - markdown
 - components
 - extra
-category: blog
+projects: true
+category: projects
 author: jamesfoster
 description: Markdown summary with different options
 ---

@@ -6,5 +6,8 @@ For local development, the only commands that work are the ones in docker_comman
 
 The docker-compose stuff is intended to run only on the droplet. (Because the config file has to specify the url, essentially)
 
-NOTE: I think you have to run the docker jekyll build command before he compose stuff works. I thinks is the case because that command will generate all the static files. 
 PS: For local development you have to exactly visit 'localhost:4000' (without https)
+
+
+If you're updating the server, you probably have to first run test-build-for-prod.sh
+then stop again with the stop.sh and then finally, run run-prod.sh
