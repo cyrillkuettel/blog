@@ -2,7 +2,8 @@
 title: "Linux Live System"
 layout: post
 date: 2021-12-30 22:10 # yyyy-mm-dd
-tag: jekyll
+tag: 
+- linux
 image: https://raw.githubusercontent.com/cyrillkuettel/blog/gh-pages/assets/images/live-usb-linux.webp
 headerImage: true
 projects: true
