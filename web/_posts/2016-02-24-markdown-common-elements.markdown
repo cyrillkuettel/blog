@@ -8,7 +8,7 @@ tag:
 - markdown
 - elements
 star: true
-category: test
+category: test # so it does not show
 projects: false  # toggle this to show in projects
 author: johndoe
 description: Markdown summary with different options

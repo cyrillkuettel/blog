@@ -1,5 +1,5 @@
 ---
-title: "State of Mind"
+title: "Design Patterns"
 layout: post
 date: 2022-01-26 03:33
 tag: jekyll
