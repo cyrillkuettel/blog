@@ -8,7 +8,7 @@ tag:
 - markdown
 - components
 - extra
-projects: true # toggle this to show in projects
+projects: false # toggle this to show in projects
 category: blog
 author: jamesfoster
 description: Markdown summary with different options
