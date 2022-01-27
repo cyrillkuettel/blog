@@ -19,7 +19,7 @@ resume-external: false
 
 resume-url: https://google.com/?q=my+resume
 
-url: http://cyrill.icu # this does not have an effect in production.. somehow
+url: https://cyrill.icu # this does not have an effect in production.. somehow
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -138,7 +138,6 @@ compress_html:
 
 exclude:
   [
-    "2016-01-23-indigo-jekyll-theme_quote001.markdown",
     "travis.sh",
     "README.md",
     "Gemfile",
