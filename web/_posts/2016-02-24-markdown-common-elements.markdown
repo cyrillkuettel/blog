@@ -9,6 +9,7 @@ tag:
 - elements
 star: true
 category: blog
+projects: true  # toggle this to show in projects
 author: johndoe
 description: Markdown summary with different options
 ---
