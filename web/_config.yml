@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/cyrill_cv_quadratic.jpg
+picture: assets/images/cyrill_cv_quadratic_resized55.jpg
 
 
 # Maybe I will include my resume later
@@ -89,7 +89,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true # I might add this later
-blog: false
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true

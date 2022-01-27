@@ -1,0 +1,28 @@
+---
+title: "Everything is possible"
+layout: post
+date: 2016-02-24 22:48
+tag: 
+- philosophy
+headerImage: false
+category: blog
+author: cyrill
+description: Everything is possible
+---
+
+# Introduction
+Ever since I first engaged with a computer, I feel like being thrown into a world of infinite possibilities. Once I started writing programs at age 14 this sentiment increased even more. What's so intriguing about computers, to my mind, is the fact that the space of potential is incredibly huge! Everything that could possibly be done.    
+# Making Progress
+I'm beginning to think everything is possible. 
+## dunning kruger here
+The more software I write that seems impossible at first sight, _and then I get it done_. 
+Everything is possible in theory. From that set, a large subset is also possible in practice. It's kind of like being a craftsman, only that you are not limited by resources and all tools are at your fingertips. 
+# Tools
+I think this analogy fits quite well. 
+Let's imagine you are a carpenter. You want to build a nice piece of furniture, but the problem is, you need a very special tool that costs a thousand dollars.
+Well, if you are in the same situation as a software developer, let's say you require a special tool. You can just _install_ free software. This has essentially the effect of  "standing on the shoulders of giants."  You can leverage your potential a ten-fold, a hundred-fold. A good example of this is Git. I cannot imagine what I would do without this marvelous piece of software.
+If a tool does not exist, which is highly unlikely, you can literally just _write it_. Just code a tool into existence. That's how a lot of great software has been created. Build simple tools, on which you can then construct more complex tools. If something doesn't exist, you can invent it.
+# Inventions
+Talking about inventions, this reminds me of something Dough Engelbart (inventor of the computer mouse) has said. s
+What I've described here is my vision. I like building things. I always liked "Daniel Düsentrieb" (English: Gyro Gearloose). Inventing new things is so interesting  because _theory often follows invention._
+## add brick pencil
