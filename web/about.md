@@ -30,7 +30,6 @@ layout: page
 <ul>
 	<li><a href="https://github.com/cyrillkuettel/knights-tour">Solving a combinatorics puzzle ‐ 'knight's tour'</a></li>
 	<li><a href="https://www.coupemondiale.ch/">Website for the World cup: Coupe Mondiale 2022 in Switzerland</a></li>
-	<li><a href="ttps://github.com/cyrillkuettel/ecstatic-pilot">Navigation Sofware for autonomous robot</a></li>
 </ul>
 
 <h2>Uni Projects</h2>
