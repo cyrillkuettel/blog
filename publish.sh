@@ -1,6 +1,2 @@
 #!/bin/bash
-
-git fetch origin
-git pull origin main
-/bin/bash ../stop.sh
-/bin/bash ./run-prod.sh
+ssh cyrill@157.230.103.23 'bash -s' < pull-and-rebuild.sh
