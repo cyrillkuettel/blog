@@ -22,8 +22,7 @@ layout: page
 	<li>HTML</li>
 	<li>Visual Basic .NET</li>
 	<li>Bash Scripting</li>
-	<li>Android Development in Java</li>
-	<li>continuous self-learning</li>
+	<li>Android Development </li>
 </ul>
 
 <h2>Personal Projects</h2>
