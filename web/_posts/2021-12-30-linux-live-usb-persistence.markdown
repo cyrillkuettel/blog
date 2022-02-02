@@ -14,25 +14,27 @@ author: cyrill
 externalLink: false
 ---
 
-# What is this?
+# Context
+
+I work on two computers. I have both a laptop and a PC (tower) at home. Because I use them for the same work, they share a lot of the same software and configuration. This naturally introduces redundancy. So I have used two systems. They have a nearly identical set of software installed. Installing new software on one computer almost always required to install it on the other computer as well.
+Having to maintain two machines, that are _almost_ but not quite identical, is not a pleasant experience. 
+
+I used a fresh, rather unconventional approach for this problem. Rather than using a cloud-based solution, I literally use the same Operating System: A live system with persistence. 
+
+# What's a live system`?
 A live system is a bootable computer installation including operating system which runs directly form a storage device into a computer's memory. 
 
-# Computers
-
-I work on two computers. A laptop and a PC at home. Because I use them for the same work, they share a lot of the same software and configuration. This naturally introduces redundancy. Why? Because both systems have a nearly identical set of software installed. This means if you 
-install new software, I always had to go throught the process twice. And on top of that the additional quirk of having to maintain two machines.They should preferably also as identical as possible, to avoid the "it works on my machine" moment. I decided to abandon this workflow altogether. I have therefore used a fresh, quite unconventional approach to solve this issue. I always use the live system. 
-
 # Idea
-It is obvious that the simple solution is to only use _one_ operating system. This is exactly what I started doing at the beginning of this year. I've installed my primary OS [MX Linux](https://mxlinux.org/) on a portable SSD. You can also use fast USB-Stick. If the installation is successful, it is possible to boot the operating system from the external storage medium. I find this quite amazing. During the boot process, you can select the option to persit all data. This will save files to your USB drive and the data will persist even after shutting down the live session.
+I've installed my System of choice [MX Linux](https://mxlinux.org/) on a portable SSD. If I work on one computer, I can just boot form the (external) SSD. With persistence activated, all local files get stored on disk. The data persists even after shutting down the live session. I find this quite amazing.
 
 ## Advantages and disadvantages of using Linux persistence?
 ### Advantages
 - Independence – The storage space used for persistent changes is independent of and separated from the OS
 - Portability – Bookmarks, settings, system preferences, customizations and file downloads can in most cases be stored and retrieved when booting from different or multiple machines.
-- More available storage space – Since the Live Linux Operating System is compressed with most persistent installs, the entire operating system takes up less space.
 - Very fast boot up time.
+- More available storage space – Since the Live Linux Operating System is compressed with most persistent installs, the entire operating system takes up less space.
+
 
 ### Disadvantages
-- The main drawback I've encountered is that it is not possible to use systemd on a MX-live system. For me this is not a big problem. However, some services might not work without it (like VPN's for example).
+- The main drawback I've encountered is that it is not possible to use systemd on a MX-live system. For me this is not a big issue. However, some services might not work without it. For example, an application might depend on the `systemctl` command. `Systemctl` is the main utility for managing system services under systemd. This command cannot be called in a live session, because a live sessions does not boot with systemd. It uses SysVinit. 
 - I don't know if system wide kernel updates work in this setup. I have not tested it. 
-

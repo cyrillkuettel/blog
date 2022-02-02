@@ -13,8 +13,8 @@ externalLink: false
 ---
 
 
-# Books
-I've always like to read books. I mostly read novels, however, from time to time I will read a technical book.
+# Reading
+I read a lot. I prefer to read fiction. From time to time, I do read books about programming, software development and various topics surrounding that area. I decided to pick up "Gang of Four" Design Patterns. 
 
 # Design Patterns
 
@@ -25,12 +25,12 @@ I've always like to read books. I mostly read novels, however, from time to time
 
     <div class="toright">
         <p>
-In  my experience, a lot of technical solutions in software / boil down to the same patterns, which are generally applicable.
-For this reason (and because everybody talks about it) I decided to read this book
-I'm on page 10 and I can already sense, that this is not going to be a light read. However, I know that I will learn a lot from this book.  Not only because the examples are in C++, also because the book goes very in-depth (which is a good thing!).</p>
+A lot of elegant solutions in software can be reduced to the same patterns. In a lot of cases it boils down to a few techniques. 
+I decided to read this book because I read a lot about it. It's over twenty years old, but still relevant today. 
+I'm on page 10 and I can already sense this is not going to be a quick read. However, I'm certain I can lear a lot from this book. 
+So let's get started then!</p>
     </div>
 </div>
 
-# Notes
-
+# Summary
 While reading, I will summarize what I think is important. 
