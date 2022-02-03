@@ -2,7 +2,7 @@
 title: "Design Patterns"
 layout: post
 date: 2022-01-26 03:33
-tag: jekyll
+tag: books
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -12,11 +12,8 @@ author: cyrill
 externalLink: false
 ---
 
-
-# Reading
 I read a lot. I prefer to read fiction. From time to time, I do read books about programming, software development and various topics surrounding that area. I decided to pick up "Gang of Four" Design Patterns. 
 
-# Design Patterns
 
 <div class="side-by-side">
     <div class="toleft">
@@ -33,8 +30,8 @@ So let's get started then!</p>
 </div>
 
 # Summary
-While reading, I will summarize what I think is important. 
-## Chapter 1
+I will summarize this book. First write down notes by hand. Only then retype it on the computer. I have found this to be an effective technique. This ensures that you only write down things that really matter.
+
 The first chapter talks about object-oriented design in a general sense. Most of this stuff is not new to me, but it's still useful to read about it. 
 This paragraph resonated especially well with me:
 > Strict modeling of the real world leads to a system that reflects today's realities but not necessarily tomorrow's. The abstractions that emerge during design are key to making a design flexible. 
