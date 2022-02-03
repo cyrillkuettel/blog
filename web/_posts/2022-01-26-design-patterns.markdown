@@ -27,10 +27,16 @@ I read a lot. I prefer to read fiction. From time to time, I do read books about
         <p>
 A lot of elegant solutions in software can be reduced to the same patterns. In a lot of cases it boils down to a few techniques. 
 I decided to read this book because I read a lot about it. It's over twenty years old, but still relevant today. 
-I'm on page 10 and I can already sense this is not going to be a quick read. However, I'm certain I can lear a lot from this book. 
+I'm on page 10, and I can already sense this is not going to be a quick read. However, I'm certain I can learn a lot from this book. 
 So let's get started then!</p>
     </div>
 </div>
 
 # Summary
 While reading, I will summarize what I think is important. 
+## Chapter 1
+The first chapter talks about object-oriented design in a general sense. Most of this stuff is not new to me, but it's still useful to read about it. 
+This paragraph resonated especially well with me:
+> Strict modeling of the real world leads to a system that reflects today's realities but not necessarily tomorrow's. The abstractions that emerge during design are key to making a design flexible. 
+
+We are talking about polymorphism here. I think polymorphism can be compared to the plug-and-play concept. It lets an object make few examples about other objects beyond supporting a particular interfaces. Polymorphism decouples objects from each other and lets them vary their relationship to each other at runtime. 

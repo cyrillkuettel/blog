@@ -1,0 +1,1 @@
+{"rule":"PRP_MD_NN","sentence":"^\\QHowever, I'm certain I can lear a lot from this book.\\E$"}
