@@ -11,7 +11,8 @@ description: Everything is possible
 ---
 
 ## Introduction
-Ever since I first interacted with a computer, I feel like being thrown into a world of infinite possibilities. I started writing programs at age 14. This further reinforced that notion. What's so intriguing about computers, to my mind, is the fact that you can literally invent new thnings out of thin air.   
+Ever since I first interacted with a computer, I feel like being thrown into a world of infinite possibilities. I started writing programs at age 14. This further reinforced that notion. What's so intriguing about computers, to my mind, is the fact that 
+allow you to invent new things out of nothing.   
 ## Making Progress
 
 I regularly had to write a feature of a software system that seems impossible at first sight, _and then I get it done_. 
@@ -33,7 +34,7 @@ Build simple tools, on which you can then construct more complex tools.
 Talking about inventing tools, this reminds of a point Dough Engelbart (inventor of the computer mouse) has made.
 > Engelbart interviewed job candidates, he would hand them a pencil with a brick attached to it with masking tape and ask them to write their name.
 If our writing tools were that unwieldy (= awkward to handle), he would demonstrate, people would never have learned to write. [1](https://www.washingtonpost.com/business/douglas-engelbart-computer-visionary-and-inventor-of-the-mouse-dies-at-88/2013/07/03/1439b508-0264-11e2-9b24-ff730c7f6312_story.html)
-![Brick](../assets/images/brick-pencil.jpg)
+![Brick](../assets/images/brick-pencil.jpg.webp)
 
 ## My motivation
 There is another point to be made here: Better tools (like a pen in his example) can in a sense expand the scope of your mind. Imagine we never invented pens (Or keyboards).
