@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/cyrill_cv_quadratic_resized55.jpg
+picture: assets/images/c4_res.jpg.webp
 
 
 # Maybe I will include my resume later
@@ -20,7 +20,7 @@ resume-external: false
 resume-url: https://google.com/?q=my+resume
 
 url: https://cyrill.icu # this does not have an effect in production.. somehow
-# your url: https://USERNAME.github.io
+
 
 permalink: /:title/
 
