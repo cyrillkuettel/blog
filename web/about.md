@@ -11,18 +11,18 @@ layout: page
 
 <ul class="skill-list">
 	<li>Java</li>
-	<li>Test-Driven Development</li>
 	<li>Python</li>
 	<li>Git</li>
     <li>Linux</li>
 	<li>Docker </li>
 	<li>Javascript</li>
+	<li>Test-Driven Development</li>
 	<li>PHP</li>
 	<li>CSS</li>
 	<li>HTML</li>
-	<li>Visual Basic .NET</li>
 	<li>Bash Scripting</li>
 	<li>Android Development </li>
+	<li>Visual Basic .NET</li>
 </ul>
 
 <h2>Personal Projects</h2>

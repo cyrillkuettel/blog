@@ -12,7 +12,7 @@ author: cyrill
 externalLink: false
 ---
 
-I read a lot. I prefer to read fiction. From time to time, I do read books about programming, software development and various topics surrounding that area. I decided to pick up "Gang of Four" Design Patterns. 
+I've always liked to read. Usually, I prefer to read fiction. From time to time, I do read books about programming, software development and various topics surrounding this area. For my latest book, I decided to pick up Design Patterns: Elements of reusable object-oriented software.     
 
 
 <div class="side-by-side">
