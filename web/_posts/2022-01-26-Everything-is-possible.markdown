@@ -16,7 +16,7 @@ Ever since I first interacted with a computer, I feel like being thrown into a w
 
 I regularly had to write a feature of a software system that seems impossible at first sight, _and then I get it done_. 
 I'm beginning to think that everything is possible. 
-![Dunning Kruger](../assets/images/dunning_kruger_effect.png)
+![Dunning Kruger](../assets/images/dunning_kruger_effect.webp)
 Of course, that line of thought is a typical fallacy. [Dunning Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) comes to mind here. 
 Everything is possible in theory. From that set, a large subset is also possible in practice. Writing software is like being a craftsman, only that you are not limited by resources and all tools are at your fingertips.
 
