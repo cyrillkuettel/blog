@@ -37,3 +37,25 @@ This paragraph resonated especially well with me:
 > Strict modeling of the real world leads to a system that reflects today's realities but not necessarily tomorrow's. The abstractions that emerge during design are key to making a design flexible. 
 
 We are talking about polymorphism here. I think polymorphism can be compared to the plug-and-play concept. It lets an object make few examples about other objects beyond supporting a particular interfaces. Polymorphism decouples objects from each other and lets them vary their relationship to each other at runtime. 
+
+> Program to an interface, not an implementation.
+> Favor composition over inheritance. 
+
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="/assets/images/aggregation_composition.drawio.png.webp" alt="">
+    </div>
+
+    <div class="toright">
+        <p>
+            composition vs aggregation. Two concepts that are easily confused.
+            Delegation is a way of making composition as powerful for reuse as inheritance. 
+        </p>
+    </div>
+</div>
+
+### Runtime structure
+Trying to understand the runtime strucutre of a program is like trying to understnad the dynamism of living ecosystems from static taxonomy of plants and animals. 
+
+### Other approaches:
+Encapsulate the concept that varies. Consider what should be variable in your design. 
