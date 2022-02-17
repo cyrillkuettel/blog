@@ -39,6 +39,7 @@ This paragraph resonated especially well with me:
 We are talking about polymorphism here. I think polymorphism can be compared to the plug-and-play concept. It lets an object make few examples about other objects beyond supporting a particular interfaces. Polymorphism decouples objects from each other and lets them vary their relationship to each other at runtime. 
 
 > Program to an interface, not an implementation.
+
 > Favor composition over inheritance. 
 
 <div class="side-by-side">
@@ -48,7 +49,7 @@ We are talking about polymorphism here. I think polymorphism can be compared to 
 
     <div class="toright">
         <p>
-            composition vs aggregation. Two concepts that are easily confused.
+            `composition` vs `aggregation`. Two concepts that are easily confused.
             Delegation is a way of making composition as powerful for reuse as inheritance. 
         </p>
     </div>
