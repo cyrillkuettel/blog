@@ -3,13 +3,14 @@
 # Das Disaster des Bildungssystems
 
 ## 
-Die wenigsten Leute gehen durchs Leben, ohne je mit dem Bildungssystem in Berührung gekommen zu sein. Sie werden hier erfahren, welch obszöner Witz das Bildungssystem eigentlich ist. 
+Das Bildungssystem wie wir es heute kennen, ist so in seiner Grundarchitektur im 19. Jahrhundert entstanden. Damals wurde jahrgangsmässig rekrutiert, was noch immer der Fall ist. Inzwischen ist einiges passiert, einige Anpassungen wurden vorgenommen, wobei die Grundfesten, also das Fundament seit Jahrhunderten unverändert ist.
 
+Die wenigsten Leute gehen durchs Leben, ohne je mit dem Bildungssystem in Berührung gekommen zu sein. Sie werden hier erfahren, welch obszöner Witz das Bildungssystem eigentlich ist. 
 Ich rede keineswegs von einzelnen Vorfällen, sondern von einem skandalösen System, welches erstaunlicherweise immer noch nicht abgelöst worden ist. 
 
 ## Wie Menschen lernen
 
-Es scheint naheliegend, dass Lernen ein natürliches Merkmal des Menschen ist. Die Fähigkeit zu lernen ist eine Grundvoraussätzung dafür, sich der Umwelt anpassen zu können. Diese Lernfähigkeit hat sich im Verlauf der Evolution entwickelt. Über die überwiegende Mehrheit unserer Geschichte hat Lernen aufgrund natürlichen Impulsen stattgefunden. In der Gegenwart sieht es anders aus.
+Es scheint naheliegend, dass Lernen ein natürliches Merkmal des Menschen ist. Die Fähigkeit zu lernen ist eine Grundvoraussetzung dafür, sich der Umwelt anpassen zu können. Diese Lernfähigkeit hat sich im Verlauf der Evolution entwickelt. Über die überwiegende Mehrheit unserer Geschichte hat Lernen aufgrund natürlichen Impulsen stattgefunden. In der Gegenwart sieht es anders aus.
 
 Für wie viele Leute ist 'lernen' reduziert worden auf das Lernen im Kontext eines Systems, einer Machtbesitzenden Instanz: das Bildungssystem. Hier läuft das Lernen, der sogenannte Lernprozess auf wohldefinierten Bahnen. Ähnlich wie eine Reihe von Rutschbahnen die parallel verlaufen, mal mit sich verzweigenden Abschnitten aber doch generell gradlinig strukturiert, vordefinierte Bahnen ohne grossen Handlungsspielraum für die Reisenden, die sich darin fortbewegen. 
 Das ist das Bild welches mir das Bildungssystem vermittelt. Es gibt verschiedene Pfade, (Bahnen) die man auswählen kann. Diese Wehrhaftigkeit (Multiplizität) ergibt eine perfekte Illusion von Wahlfreiheit, von Vielfalt, wo sich doch stattdessen Normierung Normalisierungen (sprich Kanalisation) überwiegend vorfinden. 
@@ -22,10 +23,11 @@ Die Einführung von Noten in den Bildungsapparat sind auf seine Anfänge zurück
 
 Wer Noten an sich infrage stellt, kritisiert somit das Bildungssystem als Ganzes. Diese Beurteilung ist ein im System fest verankerter Baustein. Das Weiterkommen bedingt sozusagen eine Beurteilung. 
 Keine oder eine negativ ausfallende Beurteilung bedeutet Stillstand, soziale Ächtung und Repetition. 
-(Leider scheint es notwendig, dagegen eine gewisse psychologische Resilienz zu entwickeln.)
-Das Notensystem sind Zigaretten. Stellen wir uns kurz einen fünfzigjährigen Mann vor, der seit dreissig Jahren raucht. Es ist kein leichtest Unterfangen, an einem so eingravierte und einstudierten Verhaltensmuster Grundwasser durchfliesst sie alle natürlichen Strukturen, ist omnipräsent und wird vielfältig eingesetzt. 
+Da braucht es eine gewisse 'psychologische Resilienz'.
+Das Notensystem ist vergleichbar mit Zigaretten. Stellen wir uns kurz einen fünfzigjährigen Mann vor, der seit dreissig Jahren raucht. Es ist kein leichtest Unterfangen, an einem so eingravierte und einstudierten Verhaltensmuster zu rütteln. 
+Benotung ist längst im Grundwasser, bildlich gesprochen. Wie Grundwasser durchfliesst sie alle natürlichen Strukturen, ist omnipräsent und wird vielfältig eingesetzt. 
 Ein gewaltiges, länderübergreifend System, in dessen Herzen eine einzige Idee pulsiert: _Benoten!_
-Eine Folge dieses System ist
+Eine Folge dieses System ist, dass Menschen in einem solchen System animiert werden, sich gegenseitig zu vergleichen, und zwar auf Basis dieses einheitlichen Notensystems. Sich ständig mit anderen zu vergleichen, das kann keinen positiven Effekt haben für das Individuum. Ein ständiger Vergleich ist nicht gesund, darüber braucht man kein Essay zu schreiben. Das ist schon lange bekannt in der Psychologie. 
 
 # Ein fiktives Punktesystem
 Jede Tätigkeit, die es wert ist, ausgeübt zu werden, sollte es nicht nötig haben, auf eine externe Belohnung angewiesen zu sein. Wenn natürliches Interesse ausbleibt, 
@@ -39,11 +41,17 @@ Es ist eine Folge des Systems. Die Insassen passen sich der Anstalt an.
 ## Testbarkeit von Wissen.
 Der reine Abruf von Wissen zu testen, ist eine weit verbreitete Methode in sowohl Schulen als auch Universitäten. Man testet banales Wissen. Das banale Wissen ist genau deswegen banal, weil es so einfach zu testen ist.
 (Beispiel hier mit der Jahreszahl)
-Die einfache Testbarkeit von Wissen begünstigt dessen Verbreitung. Das liegt ganz einfach daran, dass es in der Praxis mit minimalem Aufwand umsetzbar ist. Prüfungen von trivialem (zusammenhangslosen) wissen ist, sind relativ schnell geschrieben. Einfach ein Test im Frage- Antwort Muster, oberflächliche Abfrage von Fakten. [Bulimielernen](https://de.wikipedia.org/wiki/Bulimielernen) ist de fakto Standard. 
+Die einfache Testbarkeit von Wissen begünstigt dessen Verbreitung. Das liegt ganz einfach daran, dass es in der Praxis mit minimalem Aufwand umsetzbar ist. Prüfungen von trivialem (zusammenhangslosen) wissen ist, sind relativ schnell geschrieben. Einfach ein Test im Frage- Antwort Muster, oberflächliche Abfrage von Fakten. [Bulimielernen](https://de.wikipedia.org/wiki/Bulimielernen) ist de facto Standard. 
 
 ## Wie lernen Menschen am besten, unter welchen Bedingungen? 
 
 
+# Systemumwälzung
+
+Prinzipiell sehe ich nicht, wie dieses System verbessert werden kann. Ein zu Schrott gefahrenes Auto wird ja auch nicht repariert - genauso wenig ist das Bildungswesen zu retten. Das Ausmass an Degeneration hat längst den Punkt überschritten, wo sich der Renovierungsaufwand noch gelohnt hätte. 
+Meiner Ansicht braucht es einen Revolution - es führt kein Weg daran vorbei. Wir brauchen eine Umstrukturierung in so gewaltigen Ausmass, dass "Reform" nicht das richtige Wort ist. 
 
 „Kinder wollen nicht wie Fässer gefüllt, sondern wie Fackeln entzündet werden."    Rabelais 1490 – 1553
 Wir brauchen eine Revolution. 
+
+Das Bildungssystem ist ein Ort, wo Menschen aus dem 20 Jahrhundert Menschen aus dem 21. Jh. unterrichten, und zwar mit Methoden aus dem 19. Jahrhundert. 
