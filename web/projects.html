@@ -2,6 +2,10 @@
 layout: page
 title: Projects
 ---
+<br>
+{% assign random = site.time | date: "%s%N" | modulo: site.data.quotes.size %}
+<blockquote>&ldquo;{{ site.data.quotes[random].quote }}&rdquo; <cite>{{ site.data.quotes[random].person }}</cite></blockquote>
+
 <section class="list">
     {% for post in site.posts %}
         {% if post.projects %}
@@ -14,8 +18,6 @@ title: Projects
         {% endif %}
     {% endfor %}
 
-{% assign random = site.time | date: "%s%N" | modulo: site.data.quotes.size %}
-<blockquote>&ldquo;{{ site.data.quotes[random].quote }}&rdquo; <cite>{{ site.data.quotes[random].person }}</cite></blockquote>
 
 </section>
 
