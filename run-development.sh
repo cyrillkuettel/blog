@@ -1,4 +1,4 @@
-#!/bin/bash
+ #!/bin/bash
 # first, remove all exited containers
 docker stop $(docker ps -a -q)
 docker rm $(docker ps --filter status=exited -q)
