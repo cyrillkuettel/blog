@@ -12,7 +12,7 @@ author: cyrill
 externalLink: false
 ---
 
-I've always liked to read. Usually, I prefer to read fiction. From time to time, I do read books about programming, software development and various topics surrounding this area. For my latest book, I decided to pick up Design Patterns: Elements of reusable object-oriented software.     
+As far as I can remember, I've always enjoyed reading. I tend to prefer fiction, although sometimes I read non-fiction books. I do read books about programming, software development and various topics surrounding that area. For my latest book, I decided to pick up a real classic: Design Patterns: Elements of reusable object-oriented software.     
 
 
 <div class="side-by-side">
@@ -22,8 +22,8 @@ I've always liked to read. Usually, I prefer to read fiction. From time to time,
 
     <div class="toright">
         <p>
-A lot of elegant solutions in software can be reduced to the same patterns. In a lot of cases it boils down to a few techniques. 
-I decided to read this book because I read a lot about it. It's over twenty years old, but still relevant today. 
+A lot of elegant solutions in software can be reduced to the same patterns. The same problems tend to get solved the same way. 
+I decided to read this book because want to learn design patterns (obviously). That book is over twenty years old, but still relevant today. 
 I'm on page 10, and I can already sense this is not going to be a quick read. However, I'm certain I can learn a lot from this book. 
 So let's get started then!</p>
     </div>
