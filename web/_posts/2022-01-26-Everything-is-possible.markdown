@@ -25,7 +25,12 @@ Writing software is kind of like being a craftsman, only that you are not that l
 Let's imagine you are a carpenter. You want to build a nice piece of furniture, but the problem is, you require a special tool that costs a thousand dollars. In a software, this kind of limitation is rare. 
 
 
-If you are in a similar situation, as a software engineer, chances are you can just _install_ that tool. Software is not limited by physics. It is limited by imagination, by design, by organization. Free software is a prominent example. As a developer you can build on top of software that other people have written. You literally stand on the shoulders of giants. This allows you to leverage your potential a ten-fold, a hundred-fold, a thousand-fold. An example of this version control software Git. I cannot imagine what I would do without this marvelous piece of software. Same with Docker. Docker removes the 'it works on my machine' moment. 
+If you are in a similar situation, as a software engineer, chances are you can just _install_ that tool. Software is not limited by physics. It is limited by imagination, by design, by organization. Free software is a prominent example. As a developer you can build on top of software that other people have written. You literally stand on the shoulders of giants. This allows you to leverage your potential a ten-fold, a hundred-fold, a thousand-fold. An good example of this is Git. 
+There is nothing quite like that feeling when you completly messed up your local project, and just do a good old 
+` git reset --hard origin/master ` 
+to go back to baseline. And everything works again. I cannot imagine what I would do without this marvelous piece of software. 
+
+ Same with Docker. Docker removes the 'it works on my machine' moment. 
 
 If a tool does not exist (which by the way is highly unlikely) you can literally just _write_ it. Just code a tool into existence. That's how actually how a lot of great software came into existence: 
 1. Someone was in need of a particular tool.
