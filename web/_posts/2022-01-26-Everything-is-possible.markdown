@@ -27,7 +27,11 @@ Let's imagine you are a carpenter. You want to build a nice piece of furniture, 
 
 If you are in a similar situation, as a software engineer, chances are you can just _install_ that tool. Software is not limited by physics. It is limited by imagination, by design, by organization. Free software is a prominent example. As a developer you can build on top of software that other people have written. You literally stand on the shoulders of giants. This allows you to leverage your potential a ten-fold, a hundred-fold, a thousand-fold. An good example of this is Git. 
 There is nothing quite like that feeling when you completly messed up your local project, and just do a good old 
-` git reset --hard origin/master ` 
+
+{% highlight bash %}
+git reset --hard origin/master 
+{% endhighlight %}
+
 to go back to baseline. And everything works again. I cannot imagine what I would do without this marvelous piece of software. 
 
  Same with Docker. Docker removes the 'it works on my machine' moment. 
