@@ -3,4 +3,8 @@
 docker stop $(docker ps -a -q)
 docker rm $(docker ps --filter status=exited -q)
 
-docker run --name cyrill_blog --volume="/home/demo/blog/web:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:3.8 jekyll serve --watch --drafts --incremental
+blog="blog/web:/srv/jekyll"
+
+full_path="$HOME/$blog"
+
+docker run --name cyrill_blog --volume=$full_path -p 4000:4000 -it jekyll/jekyll:3.8 jekyll serve --watch --drafts --incremental
