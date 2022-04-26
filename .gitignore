@@ -6,3 +6,4 @@ Gemfile.lock
 vendor/
 publish.sh
 scp-remote-to-local.sh
+data/
