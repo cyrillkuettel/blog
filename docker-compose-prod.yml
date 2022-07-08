@@ -19,7 +19,7 @@ services:
       - "./nginx/html/404.html:/usr/share/nginx/html/404.html"
       - "./data/certbot/conf:/etc/letsencrypt"
       - "./data/certbot/www:/var/www/certbot"
-      - "./fast/app:/var/www/public:ro" # read-only
+      # - "./fast/app:/var/www/public:ro" # read-only
 
       # to use jekyll's 404 page, uncomment the line below and disable the line above
       # Important: ensure that 404.html exist else this will throw an error during build
