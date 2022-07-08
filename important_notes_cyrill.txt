@@ -1,3 +1,9 @@
+# Upload files
+```bash
+# upload: local -> remote
+scp local_file user@remote_host:remote_file
+```
+
 # Differnce prod / dev
 
 For technical reasons, that is, because of the nginx configuration, the docker command to go life in the site is different if you're on the server. 
