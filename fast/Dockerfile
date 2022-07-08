@@ -4,7 +4,7 @@ LABEL maintainer="Sebastian Ramirez <tiangolo@gmail.com>"
 
 WORKDIR /code
 
-COPY .fast/app/requirements.txt /code/requirements.txt
+COPY ./fast/app/requirements.txt /code/requirements.txt
 
 RUN pip install --upgrade pip
 RUN pip install --no-cache-dir --upgrade -r /code/requirements.txt
