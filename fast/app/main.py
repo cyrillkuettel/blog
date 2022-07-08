@@ -10,12 +10,12 @@ app = FastAPI()
 templates = Jinja2Templates(directory=str(Paths.templates.resolve()))
 
 
-@app.get("/matterjs")
+@app.get("/app/matterjs")
 async def root():
     return {"message": "Hello World"}
 
 
-@app.get("/templates")
+@app.get("/app/templates")
 async def main(request: Request):
     bla = "it works :)"
     return templates.TemplateResponse(
