@@ -33,5 +33,5 @@ layout: page
 
 <h2>Uni Projects</h2>
 <ul>
-	<li><a href="ttps://github.com/cyrillkuettel/ecstatic-pilot">Navigation Sofware for autonomous robot</a></li>
+	<li><a href="https://github.com/cyrillkuettel/ecstatic-pilot">Navigation Sofware for autonomous robot</a></li>
 </ul>
