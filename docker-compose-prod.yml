@@ -10,7 +10,8 @@ services:
     volumes:
       - "./web:/srv/jekyll"
   nginx:
-    image: nginx
+    image: nginx:latest
+    restart: always
     command: "/bin/sh -c 'while :; do sleep 6h & wait $${!}; nginx -s reload; done & nginx -g \"daemon off;\"'"
     volumes:
       - "./web/_site:/var/www/public"
@@ -18,15 +19,28 @@ services:
       - "./nginx/html/404.html:/usr/share/nginx/html/404.html"
       - "./data/certbot/conf:/etc/letsencrypt"
       - "./data/certbot/www:/var/www/certbot"
+      - "./fast/app:/var/www/public:ro" # read-only
+
       # to use jekyll's 404 page, uncomment the line below and disable the line above
       # Important: ensure that 404.html exist else this will throw an error during build
     # - "./web/_site/404.html:/usr/share/nginx/html/404.html"
     ports:
       - 80:80
       - 443:443
+    expose: 
+      - "80"
   certbot:
     image: certbot/certbot
     volumes:
       - "./data/certbot/conf:/etc/letsencrypt"
       - "./data/certbot/www:/var/www/certbot"
     entrypoint: "/bin/sh -c 'trap exit TERM; while :; do certbot renew; sleep 12h & wait $${!}; done;'"
+  python:
+    restart: always
+    build:
+      context: . # We set this context to load the app requirements when building the image
+      dockerfile: ./fast/Dockerfile # uvicorn-gunicorn-fastapi:python3.9
+    volumes:
+      - ./fast/app:/code/app
+    ports:
+      - "8000:8000"
