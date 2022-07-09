@@ -15,8 +15,8 @@ cd blog/fast
 uvicorn app.main:app --reload
 ```
 ### Pycharm note:
-Pycharm cannot recognize the source folder `fast`
-This may lead to incorrectly identify syntax erros for absolute python import.s
+There might be an issue where, if importing something start with `from app.core`, pycharm thinks the folder `fast` is unresolved.
+It's incorrectly identifying syntax erros for absolute python imports.
 
 1) Open the Project Structure settings.
 2) In the 'Projects' pane of the Project Structure page, click the `fast` folder and mark it as Sources.
