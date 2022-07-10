@@ -6,7 +6,7 @@ from fastapi.staticfiles import StaticFiles
 from app.core.settings import Paths
 
 app = FastAPI()
-app.mount("/app/templates", StaticFiles(directory=Paths.templates.resolve()), name="static")
+app.mount("/app/templates", StaticFiles(directory=Paths.templates.resolve()), name="stati")
 
 templates = Jinja2Templates(directory=str(Paths.templates.resolve()))
 angry_birds_template = Jinja2Templates(directory=str(Paths.angry_birds_template_root.resolve()))
