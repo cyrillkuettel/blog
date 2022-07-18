@@ -8,9 +8,9 @@ It might be neccessary to run the docker command which runs jekyll build (below)
 
 
 
-docker run --rm --volume="/home/demo/blog/web:/srv/jekyll" -it jekyll/jekyll:3.8 jekyll build
+docker run --rm --volume="/home/cyrill/blog/web:/srv/jekyll" -it jekyll/jekyll:3.8 jekyll build
 
 
-docker run --name cyrill_blog --volume="/home/demo/blog/web:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:3.8 jekyll serve --watch --drafts
+docker run --name cyrill_blog --volume="/home/cyrill/blog/web:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:3.8 jekyll serve --watch --drafts
 # restart: 
 docker start cyrill_blog
