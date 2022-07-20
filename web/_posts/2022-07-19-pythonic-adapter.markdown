@@ -54,7 +54,7 @@ This is the adapter. What it's going to do is wrap the underlying object.
 Some notes on `NetworkElement` class:
 
 - Get in the habit of putting `__repr__` on your classes, it makes debugging so much easier.
-- Add custom exceptions, this is useful documentation for the people that use api.
+- Add custom exceptions, this is useful documentation for the people that use the api.
 - Separate the exception handling from the business logic. ("push it down")
 - We put a `@property` on the routing_table. This enables us to do direly access the attribute in the second code snippet.
 - The setup and tear-down logic: We have created magic functions: `__enter__` and `__exit__`. This enables us to use the
